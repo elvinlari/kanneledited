@@ -1,0 +1,8 @@
+#! /bin/sh
+#
+# Created by configure
+
+'./configure' \
+'--enable-start-stop-daemon' \
+'--with-mysql' \
+"$@"
